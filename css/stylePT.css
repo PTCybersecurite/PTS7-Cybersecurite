@@ -1,0 +1,65 @@
+@font-face {
+	font-family: 'redressedregular';
+	src: url('fonts/redressed_regular_macroman/Redressed-webfont.eot');
+	src: url('fonts/redressed_regular_macroman/Redressed-webfont.eot?#iefix') format('embedded-opentype'),
+     	url('fonts/redressed_regular_macroman/Redressed-webfont.woff') format('woff'),
+     	url('fonts/redressed_regular_macroman/Redressed-webfont.ttf') format('truetype'),
+     	url('fonts/redresed_regular_macroman/Redressed-webfont.svg#redressedregular') format('svg');
+}
+
+p
+{
+	text-align: justify;
+	color: black;
+	font-size : 0.8em;
+	opacity: 0.7; 
+}
+
+section
+{
+	border: 1px solid black;
+	padding: 6px;
+ 	margin: auto;
+width: 50%;
+ 	min-width: 400px;
+ 	min-height: 25px;
+ 	word-wrap: break-word;
+ 	display: flex;
+ 	justify-content: center;
+ 	align-items: center;
+}
+
+h1
+{
+border: 1px red solid;
+border-radius: 10px;
+ 	box-shadow: 6px 6px 4px black;
+text-decoration: underline;
+ 	text-align: center;
+ 	color: maroon;
+ 	font-family: 'redressedregular', serif;
+ 	font-size : 3.0em
+}
+
+h2
+{
+ 	border: 1px black solid;
+border-radius: 10px;
+ 	box-shadow: 6px 6px 4px black;
+ 	text-decoration: underline;
+ 	text-align: center;
+ 	color: rgb(240,96,204);
+font-family: 'redressedregular', serif;
+font-size : 1.0em;
+}
+
+body
+{
+	background-color: aqua;
+}
+
+a
+{
+ color: red;
+ font-style: justify;
+}
