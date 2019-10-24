@@ -20,7 +20,7 @@ section
 	border: 1px solid black;
 	padding: 6px;
  	margin: auto;
-width: 50%;
+	width: 50%;
  	min-width: 400px;
  	min-height: 25px;
  	word-wrap: break-word;
@@ -44,7 +44,7 @@ text-decoration: underline;
 h2
 {
  	border: 1px black solid;
-border-radius: 10px;
+	border-radius: 10px;
  	box-shadow: 6px 6px 4px black;
  	text-decoration: underline;
  	text-align: center;
@@ -62,4 +62,11 @@ a
 {
  color: red;
  font-style: justify;
+}
+
+.exemple
+{
+	font-style: italic;
+	font-family: 'redressedregular';
+	font-size: small;
 }
