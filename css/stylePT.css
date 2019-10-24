@@ -18,15 +18,7 @@ p
 
 section
 {
-	padding: 6px;
- 	margin: auto;
-	width: 50%;
- 	min-width: 400px;
- 	min-height: 25px;
- 	word-wrap: break-word;
- 	display: flex;
- 	justify-content: center;
- 	align-items: center;
+	margin: 1%;
 }
 
 h1
@@ -58,9 +50,9 @@ a
  font-style: justify;
 }
 
-.navbar-expand-lg
+.questionnaire
 {
-	color: #24292E;
+	margin: 1%;
 }
 
 
