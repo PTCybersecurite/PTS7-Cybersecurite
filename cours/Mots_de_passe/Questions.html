@@ -1,62 +1,80 @@
 <!DOCTYPE html>
 <!-- CHANGER TOUTES LES QUOTES SINON CA MARCHE PAS !!!! -->
 <html>
-	<head>
-		<meta charset="utf-8" />
-		<!-- Implémentation de Bootstrap (1/2) -->
-		<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
-		
-		<link rel="stylesheet" href="../css/stylePT.css"/>
-	 	<title> Questions Introduction </title>
- 	</head>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="stylePT.css"/>
+         <title> Questions Introduction </title>
+     </head>
 <body>
-	<header>
-		<h1> 
-			Questions d’introduction
-		</h1>
-	</header>
-	<form method="post" action="traitement_questions_intro.php">
-        		<p>
-            	<label for="question1">Combien de mots de passe avez-vous ?</label> :
-            	<input type="text" name="question1" id="question1"  size="70"/>
+    <header>
+        <h1> 
+            Questions d’introduction
+        </h1>
+    </header>
+    <form method="post" action="traitement_questions_intro.php">
+        <p>
+        <label for="question1">Combien de mots de passe différents avez-vous ?</label> :
+        <br/>
+        
+        <select name="nombre" id="nombre">
+            <option value= "option1_q1">1 seul</option>
+            <option value= "option2_q1">2 ou 3</option>
+            <option value= "option3_q1">4 ou 5</option>
+            <option value= "option4_q1">+ de 5</option>
+        </select>
+        <br/>
 
-			<br/>
+        <label for="question2">Est-ce que vous en avez un différent pour banque, mail perso, mail pro, … ?</label> :
+        <br/>
+        
+        <select name="different" id="different">
+            <option value= "option1_q2">J'utilise le même mot de passe de partout</option>
+            <option value= "option2_q2">J'ai un mot de passe différent juste pour ma banque</option>
+            <option value= "option3_q2">J'ai quelques mot de passe différents pour mes comptes</option>
+            <option value= "option4_q2">J'ai un mot de passe différent pour quasiment tous mes comptes</option>
+        </select>
+        <br/>
 
-<label for="question2">Est-ce que vous en avez un différent pour banque, mail, mail pro, … ?</label> :
-            	<input type="text" name="question2" id="question2"  size="70"/>
+        <label for="question3">Quelle est la complexité de vos mots de passe en général ?</label> :
+        <br/>
+        
+        <select name="simplicite" id="simplicite">
+            <option value= "option1_q3">J'utilise mon prénom et/ou ma date de naissance</option>
+            <option value= "option2_q3">J'utilise seulement un type de caractère (que des lettres, que des chiffres)</option>
+            <option value= "option3_q3">J'utilise généralement des majuscules et des chiffres</option>
+            <option value= "option4_q3">J'utilise souvent des majuscules, des chiffres et des caractères spéciaux</option>
+        </select>
+        <br/>
 
-		<br/>
-
-<label for="question3">  Simplicité du mdp ? (Date de naissance, nom, prénom)</label> :
-            	<input type="text" name="question3" id="question3"  size="70"/>
-
-		<br/>
-
-<label for="question4">   Longueur du mdp</label> :
-            	<input type="text" name="question4" id="question4"  size="70"/>
-
-		<br/>
-		<label for="question5">    Avez-vous un gestionnaire de mdp ?</label> :
-            	<input type="text" name="question5" id="question5"  size="70"/>
-		
-		</p>
-		<input type=”submit” value=”Envoyer” />
-	</form>
-	<p> 
-		<a href="Introduction.html" > Page Suivante -> </a>  
-	</p>
-	<footer>
-	</footer>
-		<!-- Implémentation de Bootstrap (2/2) -->
-	<script type="text/javascript" src="../js/jquery.min.js"></script>
-	<script type="text/javascript" src="../js/bootstrap.min.js"></script>
+        <label for="question4">Quelle est la longueur de vos mots de passe en général ?</label> :
+        <br/>
+        
+        <select name="longueur" id="longueur">
+            <option value= "option1_q4">entre 1 et 3 caractères</option>
+            <option value= "option2_q4">entre 3 et 5 caractères</option>
+            <option value= "option3_q4">entre 5 et 10 caractères</option>
+            <option value= "option4_q4">+ de 10 caractères</option>
+        </select>
+        <br/>
+        
+        <label for="question5">Avez-vous un gestionnaire de mots de passe ?</label> :
+        <br/>
+        
+        <select name="gestionnaire" id="gestionnaire">
+            <option value= "option1_q5">Oui</option>
+            <option value= "option2_q5">Non</option>
+        </select>
+        </p>
+        
+        <input type="submit" value="Envoyer" />
+    </form>
+    
+    <p> 
+        <a href="Introduction.html" > Introduction -> </a>  
+    </p>
+    
+    <footer>
+    </footer>
 </body>
 </html>
-
-
-	
-
-
-
-
-
