@@ -17,7 +17,6 @@ p
 
 section
 {
-	border: 1px solid black;
 	padding: 6px;
  	margin: auto;
 	width: 50%;
@@ -31,24 +30,18 @@ section
 
 h1
 {
-border: 1px red solid;
-border-radius: 10px;
- 	box-shadow: 6px 6px 4px black;
-text-decoration: underline;
+	border-radius: 10px;
  	text-align: center;
- 	color: maroon;
+ 	color: darkblue;
  	font-family: 'redressedregular', serif;
  	font-size : 3.0em
 }
 
 h2
 {
- 	border: 1px black solid;
 	border-radius: 10px;
- 	box-shadow: 6px 6px 4px black;
  	text-decoration: underline;
- 	text-align: center;
- 	color: rgb(240,96,204);
+	margin: 1%;
 font-family: 'redressedregular', serif;
 font-size : 1.0em;
 }
@@ -63,6 +56,12 @@ a
  color: red;
  font-style: justify;
 }
+
+.navbar-expand-lg
+{
+	color: #24292E;
+}
+
 
 .exemple
 {
