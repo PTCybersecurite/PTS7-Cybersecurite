@@ -10,7 +10,12 @@
         <link rel="stylesheet" href="../../css/stylePT.css"/>
          <title> Questions Introduction </title>
         
-		<script type="text/javascript" src="js/javascript.js"></script>  
+		<!-- Ajout d'un "favicon" -->
+		<link rel = "icon" type = "image/png" href = "../../images/Logo.png">
+		<!-- For apple devices -->
+		<link rel = "apple-touch-icon" type = "image/png" href = "../../images/Logo.png"/>
+		
+		<script type="text/javascript" src="../../js/javascript.js"></script>  
      </head>
 <body>
     <header>
@@ -18,7 +23,7 @@
 	<!-- Barre de navigation en haut -->
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 		  
-		  <a class="navbar-brand" href="">
+		  <a class="navbar-brand" href="../../index.html">
 			  <img src="../../images/Logo.png" width="60" height="60" alt="logo" > 
 		  </a>
 		 
@@ -66,7 +71,7 @@
 			<br/>
 			
 			<select name="different" id="different">
-				<option value= "option1_q2">J'utilise le même mot de passe de partout</option>
+				<option value= "option1_q2">J'utilise partout le même mot de passe</option>
 				<option value= "option2_q2">J'ai un mot de passe différent juste pour ma banque</option>
 				<option value= "option3_q2">J'ai quelques mot de passe différents pour mes comptes</option>
 				<option value= "option4_q2">J'ai un mot de passe différent pour quasiment tous mes comptes</option>
@@ -88,9 +93,9 @@
 			<br/>
 			
 			<select name="longueur" id="longueur">
-				<option value= "option1_q4">entre 1 et 3 caractères</option>
-				<option value= "option2_q4">entre 3 et 5 caractères</option>
-				<option value= "option3_q4">entre 5 et 10 caractères</option>
+				<option value= "option1_q4">Entre 1 et 3 caractères</option>
+				<option value= "option2_q4">Entre 3 et 5 caractères</option>
+				<option value= "option3_q4">Entre 5 et 10 caractères</option>
 				<option value= "option4_q4">+ de 10 caractères</option>
 			</select>
 			<br/>
@@ -100,7 +105,7 @@
 			
 			<select name="gestionnaire" id="gestionnaire">
 				<option value= "option1_q5">Oui</option>
-				<option value= "option2_q5">Non</option>
+				<option value= "option2_q5" selected>Non</option>
 			</select>
 			</p>
 			
