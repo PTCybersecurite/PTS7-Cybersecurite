@@ -1,12 +1,31 @@
-@font-face {
-	font-family: 'redressedregular';
-	src: url('fonts/redressed_regular_macroman/Redressed-webfont.eot');
-	src: url('fonts/redressed_regular_macroman/Redressed-webfont.eot?#iefix') format('embedded-opentype'),
-     	url('fonts/redressed_regular_macroman/Redressed-webfont.woff') format('woff'),
-     	url('fonts/redressed_regular_macroman/Redressed-webfont.ttf') format('truetype'),
-     	url('fonts/redresed_regular_macroman/Redressed-webfont.svg#redressedregular') format('svg');
+@font-face{ 
+	font-family: 'Conduit';
+    src: url('../fonts/ConduitITCStd-Regular.woff') format('woff'),
+         url('../fonts/ConduitITCStd-Regular.woff2') format('woff2');
 }
 
+@font-face{ 
+	font-family: 'Potra';
+    src: url('../fonts/Potra.woff') format('woff'),
+        url('../fonts/Potra.woff2') format('woff2');
+}
+
+nav
+{
+	font-family: 'Potra';
+}
+
+section
+{
+	font-family: 'Conduit';
+}
+
+strong
+{
+	font-weight: normal;
+	color: #478AAB;
+	
+}
 p
 {
 	text-align: justify;
@@ -25,20 +44,21 @@ h1
 {
 	border-radius: 10px;
  	text-align: center;
- 	color: darkblue;
- 	font-family: 'redressedregular', serif;
  	font-size : 3.0em
 }
 
 h2
 {
 	border-radius: 10px;
- 	text-decoration: underline;
 	margin: 1%;
-font-family: 'redressedregular', serif;
-font-size : 1.0em;
+	font-size : 1.5em;
+	color: #478AAB;
 }
 
+h3
+{
+	color: #478AAB;
+}
 body
 {
 	background-color: #F8F9FA;
@@ -50,6 +70,16 @@ a
  font-style: justify;
 }
 
+
+hr
+{ 
+    border-width: 10px;
+	background-color: black;
+	position: relative;
+	top: -1.5em;
+}
+
+
 .questionnaire
 {
 	margin: 1%;
@@ -59,6 +89,5 @@ a
 .exemple
 {
 	font-style: italic;
-	font-family: 'redressedregular';
 	font-size: small;
 }
