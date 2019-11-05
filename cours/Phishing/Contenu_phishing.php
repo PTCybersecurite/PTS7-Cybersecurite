@@ -25,7 +25,7 @@
 	<section>
 	<header>
 		<h1> 
-			<strong>Contenu Phishing</strong>
+			<strong>Le Phishing</strong>
 		</h1>
 	</header>
 	<br/>

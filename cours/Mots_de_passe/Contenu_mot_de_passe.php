@@ -25,7 +25,7 @@
 	<section>
 	<header>
 		<h1> 
-			<strong>Contenu mot de passe</strong>
+			<strong>Les mots de passe</strong>
 		</h1>
 	</header>
 	<br/>
