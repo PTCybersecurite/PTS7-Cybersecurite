@@ -29,7 +29,7 @@
             <strong>Questions d’introduction</strong>
         </h1>
     <div class="questionnaire">
-		<form method="post" action="traitement_questions_intro.php">
+		<form method="post" action="Questions_traitement.php">
 			<p>
 			<label for="question1">Combien de mots de passe différents avez-vous ?</label> :
 			<br/>

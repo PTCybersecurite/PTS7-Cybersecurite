@@ -26,6 +26,7 @@ strong
 	color: #478AAB;
 	
 }
+
 p
 {
 	text-align: justify;
@@ -77,7 +78,7 @@ hr
     border-width: 10px;
 	background-color: black;
 	position: relative;
-	top: -1.5em;
+	top: -1.2em;
 }
 
 
