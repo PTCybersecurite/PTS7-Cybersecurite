@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 
 <?php require('../../includes/header.php')?>
@@ -29,7 +30,10 @@
 		</h1>
 	</header>
 	<br/>
-	
+    <?php $nb_points=$_SESSION["points"];
+          $message=$_SESSION["message"];?>
+    <h4> Tu as eu <?php echo $nb_points.' sur 20 à ton test : '.$message ?> </h4>
+
 	<p>Aujourd'hui, quasiment 100% de nos données sont numérisées. Il est donc extrêmement important de protéger ces données pour que personnes avec des intentions douteuses ne les obtiennent pas. Les mots de passe sont l'un des moyens pour arriver à cela.</p>
 	<br/>
 
