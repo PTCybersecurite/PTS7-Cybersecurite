@@ -15,7 +15,7 @@
         <!-- For apple devices -->
         <link rel = "apple-touch-icon" type = "image/png" href ="images/Logo.png"/>
 
-        <script type="text/javascript" src"js/javascript.js"></script>
+        <script type="text/javascript" src="js/javascript.js"></script>
     </head>
 
 <body>
