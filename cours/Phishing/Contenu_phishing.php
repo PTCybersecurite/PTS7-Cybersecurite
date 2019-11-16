@@ -68,8 +68,15 @@
 
 		<li>Faire preuve d'un peu de bon sens</li>
 		<p>On ne le répetera jamais assez : "tout ce qui vient d'Internet n'est pas forcément vrai". Il ne faut surtout pas être crédule et ne pas croire tout ce que l'on voit.</p>
-
 	</ul>
+	<br/>
+
+	<h2>Que faire si on s'est fait piéger ?</h2>
+	<br/>
+
+	<p>Il faut toujours réagir de manière appropriée au phishing, c'est-à-dire il faut signaler immédiatement ce qui vous est arrivé sur la plateforme du gouvernement <a href="https://www.internet-signalement.gouv.fr/PortailWeb/planets/Accueil!input.action">"PHAROS"</a> (Plateforme d'Harmonisation, d'Analyse de Recoupement et d'Orientation des Signalements)</p>
+
+	<p>Si vous avez victime d'escroquerie qui vous a mené à perdre de l'argent, signalez le à votre banque pour obtenir un remboursement. Vous pouvez également porter plainte sur le <a href="https://www.pre-plainte-en-ligne.gouv.fr/">site du gouvernement</a>.</p>
 
 	</section>
 	
