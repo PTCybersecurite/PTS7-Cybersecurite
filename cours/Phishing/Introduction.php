@@ -28,6 +28,14 @@
 		</h1>
 	</header>
 	<br/>
+    <figure>
+        <a class="img-exemple" href="../../images/phishing/phishing_ex.png">
+            <img src="../../images/phishing/phishing_ex.png" alt="exemple_phishing"/>
+        </a>
+        <figcaption>
+            Exemple de phishing (<a href="https://www.eila.univ-paris-diderot.fr/sysadmin/securite/virus/phishing" target="_blank" rel="noopener noreferrer">https://www.eila.univ-paris-diderot.fr/sysadmin/securite/virus/phishing</a>)
+        </figcaption>
+    </figure>
 	</section>
 	
 	<footer>
