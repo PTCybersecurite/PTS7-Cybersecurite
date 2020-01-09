@@ -13,7 +13,7 @@
 				<a class="nav-link disabled" href="#" aria-disabled="true">Page précédente</a>
 			  </li>
 			  <li class="nav-item">
-				<a class="nav-link" href="Contenu_phishing.php">Page suivante</a>
+				<a class="nav-link" href="Contenu_bonnes_pratiques.php">Page suivante</a>
 			  </li>
 			</ul>
 		  </div>
