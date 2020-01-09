@@ -97,12 +97,12 @@ switch ($q5)
 
 if($points<=10)
 {
-    $message="tes mots de passe ne sont pas sécurisés ! Tu risques de te faire voler tes données !";
+    $message="Tes mots de passe ne sont pas sécurisés ! Tu risques de te faire voler tes données ! Mais surtout ne t'inquiètes pas, ce cours est là pour t'aider !";
 }
 
 else if($points>10 and $points<=15)
 {
-    $message="tes choix de mot de passe sont bons, mais tu as encore quelques choses à apprendre !";
+    $message="Tes choix de mots de passe sont bons, mais tu as encore plusieurs choses à apprendre !";
 }
 
 else if($points>15)
