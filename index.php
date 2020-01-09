@@ -61,7 +61,7 @@
 		<ul>
 			<li><a class="nav-link" href="cours/Mots_de_passe/Questions.php">Cours n°1 : Les mots de passe</a></li>
 			<li><a class="nav-link" href="cours/Phishing/Introduction.php">Cours n°2 : Le Phishing</a></li>
-			<li><a class="nav-link" href="cours/Bonnes_Pratiques/Introduction.php">Cours n°2 : Le Phishing</a></li>
+			<li><a class="nav-link" href="cours/Bonnes_Pratiques/Introduction.php">Cours n°3 : Les Bonnes Pratiques</a></li>
 		</ul>	
 		<br/>
 
