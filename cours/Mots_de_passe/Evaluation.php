@@ -26,7 +26,8 @@
 	<header>
 		<h1><strong>Evaluation</strong></h1>
 	</header>
-	
+
+	<p>Enlever le titre Evaluation, et mettre un lien vers le chapitre 2 du twine</p>
 	</section>
 
 <?php include('../../includes/footer.php')?>
