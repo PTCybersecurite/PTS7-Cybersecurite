@@ -1,8 +1,11 @@
-<!-- Barre de navigation en haut -->
-<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #478AAB;">
 
-    <a class="navbar-brand" href="../../index.php">
-        <img src="../../images/Logo.png" width="60" height="60" alt="logo" >
+<!-- Barre de navigation en haut -->
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(45,101,129);">
+
+    <a class="navbar-brand" href="#">
+        <div id="logo_page">
+            <img src="../../images/Logo_wCM_blanc_allonge.png" width="350"  alt="logo">
+        </div>
     </a>
 
     <!-- Bouton affiché uniquement sur mobile pour dérouler -->

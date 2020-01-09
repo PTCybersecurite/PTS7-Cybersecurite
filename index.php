@@ -8,23 +8,25 @@
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
 
         <link rel="stylesheet" href="css/stylePT.css"/>
-        <title>Cours Cyber-Sécurité</title>
+        <title>Accueil | e-Safety</title>
 
         <!-- Ajout d'un "favicon" -->
-        <link rel = "icon" type = "image/png" href ="images/Logo_bleu.png>"/>
+        <link rel = "icon" type = "image/x-icon" href ="favicon.ico"/>
         <!-- For apple devices -->
-        <link rel = "apple-touch-icon" type = "image/png" href ="images/Logo.png"/>
+        <link rel = "apple-touch-icon" type = "image/x-icon" href ="favicon.ico"/>
 
-        <script type="text/javascript" src="js/javascript.js"></script>
+        <script type="text/javascript" src"js/javascript.js"></script>
     </head>
 
 <body>
 
 	<!-- Barre de navigation en haut -->
-		<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #478AAB;">
+		<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(45,101,129);">
 		  
 		  <a class="navbar-brand" href="#">
-			<img src="images/Logo.png" width="60" height="60" alt="logo"> 	
+			<div id="logo_page">
+			    <img src="images/Logo_wCM_blanc_allonge.png" width="350"  alt="logo">
+            </div>
 		  </a>
 		 
 		  <!-- Bouton affiché uniquement sur mobile pour dérouler -->
@@ -53,15 +55,24 @@
 	<section>
 	<header>
 		<h1> 
-			<strong>Menu Principal</strong>
+			<strong>Accueil</strong>
 		</h1>
 	</header>
 
+		<div class="boite centree">
+		  <img src="images/matrix.gif" alt="Card image cap" style="width:100%;height:100%;display:block;border-top-left-radius:3px;border-top-right-radius:3px;">
+			<div class="sous-boite">
+				<h5>Cours interactif</h5>
+				<p>Développé par des étudiants de Centrale Marseille</p>
+				<a href="#" id="start" class="btn btn-primary">Démarrer une partie</a>
+			</div>
+		</div>
+	
 	<h2>Sommaire des différents cours</h2>
 		<ul>
 			<li><a class="nav-link" href="cours/Mots_de_passe/Questions.php">Cours n°1 : Les mots de passe</a></li>
-			<li><a class="nav-link" href="cours/Phishing/Introduction.php">Cours n°2 : Le Phishing</a></li>
-			<li><a class="nav-link" href="cours/Bonnes_Pratiques/Introduction.php">Cours n°3 : Les Bonnes Pratiques</a></li>
+			<li><a class="nav-link" href="cours/Phishing/Introduction.php">Cours n°2 : Le phishing</a></li>
+            <li><a class="nav-link" href="cours/Bonnes_Pratiques/Introduction.php">Cours n°3 : Les bonnes pratiques</a></li>
 		</ul>	
 		<br/>
 

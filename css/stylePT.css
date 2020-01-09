@@ -10,7 +10,40 @@
         url('../fonts/Potra.woff2') format('woff2');
 }
 
-nav
+#logo_page
+{
+	position: relative;
+	left: 0.5em;
+}
+
+.boite
+{
+	width: 300px;
+	/* border: 0.1em solid black; */
+	margin: 20px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px rgb(171,172,174), -2px -2px 2px rgb(171,172,174), 1px -1px 1px rgb(171,172,174), -1px 1px 1px rgb(171,172,174); 
+}
+
+
+.sous-boite
+{
+	padding: 6px;
+	text-align: center;
+	color: #478AAB;
+}
+.centree
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#start
+{
+	text-align: center;
+}
+
+nav, h5
 {
 	font-family: 'Potra';
 }
@@ -81,6 +114,27 @@ hr
 	top: -1.2em;
 }
 
+
+figure figcaption
+{
+	text-align: center;
+	font-size: small;
+}
+
+.img-exemple
+{
+	display: block;
+	border: 3px ridge #478AAB;;
+	margin: auto;
+	width: 30%;
+	height: auto;
+}
+
+.img-exemple img
+{
+	width: 100%;
+	height: auto;
+}
 
 .questionnaire
 {
