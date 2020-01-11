@@ -52,7 +52,8 @@
 	<br/>
 
 	<h2>Les bloqueurs de publicités</h2>
-	<p></p>
+	<p>Adblock et companie ne servent pas simplement à visualiser des vidéos Youtube en paix, ils vous protègent de plusieurs menaces. En effet, ces bloqueurs de publicités empêchent les publicités d'apparaître sur votre écran (on ne l'aurait jamais deviné), et surtout ils bloquent des publicités malveillantes. Quand on clique sur celles-ci, on est envoyé sur un site qui fait qu'un malware s'infiltre dans votre système. Si cela arrive et que vous n'avez pas un bon anti-virus, cela peut bousiller votre machine.</p>
+	<p>Il y a aussi un autre avantage pratique quand on utilise des bloqueurs de publicités, c'est que notre navigation est plus fluide et plus rapide. Les publicités demandent beaucoup de données pour s'afficher, il est donc plus rapide de ne pas les afficher du tout.</p>
 	<br/>
 
 	
