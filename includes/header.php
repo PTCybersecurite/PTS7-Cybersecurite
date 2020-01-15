@@ -5,7 +5,7 @@
     <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css"/>
 
     <link rel="stylesheet" href="../../css/stylePT.css"/>
-    <title>Cours Cyber-Sécurité</title>
+    <title>Cours | e-Safety</title>
 
     <!-- Ajout d'un "favicon" -->
     <link rel = "icon" type = "image/png" href ="../../images/Logo_bleu.png>"/>
