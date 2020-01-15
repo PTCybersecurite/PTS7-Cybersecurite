@@ -12,7 +12,7 @@
 				<a class="nav-link" href="../../index.php">Menu Principal <span class="sr-only">(current)</span></a>
 			  </li>
 			  <li class="nav-item">
-				<a class="nav-link disabled" href="#" aria-disabled="true">Page précédente</a>
+				<a class="nav-link" href="Questions.php">Page précédente</a>
 			  </li>
 			  <li class="nav-item">
 				<a class="nav-link" href="Contenu_mot_de_passe.php">Page suivante</a>

@@ -64,7 +64,7 @@
 			<div class="sous-boite">
 				<h5>Cours interactif</h5>
 				<p>Développé par des étudiants de Centrale Marseille</p>
-				<a href="#" id="start" class="btn btn-primary">Démarrer une partie</a>
+				<a href="cours/twine.php" id="start" class="btn btn-primary">Démarrer une partie</a>
 			</div>
 		</div>
 	
