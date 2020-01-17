@@ -69,7 +69,7 @@
 			<div class="exemple">ex : "Je vais acheter 6 pommes de terre" "donne JvAHT6pDT"</div>
 			<br/>
 
-			<li>La méthode des premières lettres: on ne gardent que les premières lettres de chaque mot</li>
+			<li>La méthode des premières lettres: on ne garde que les premières lettres de chaque mot</li>
 			<div class="exemple">ex : " Le carré de l'hypoténuse est égal à la somme des carrés des 2 autres côtés." donne "Lcdl'heéàlsdcd2ac."</div>
 			<br/>
 
