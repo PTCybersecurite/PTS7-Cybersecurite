@@ -35,13 +35,13 @@
 
 
 
-</script><tw-tag name="Ch1" color="purple"></tw-tag>,<tw-tag name="mdp" color="red"></tw-tag>,<tw-tag name="Circuit---nouvel-arrivant" color="yellow"></tw-tag>,<tw-tag name="Blabla" color="red"></tw-tag>,<tw-tag name="Computer" color="blue"></tw-tag>,<tw-tag name="Mail" color="blue"></tw-tag>,<tw-tag name="S1---NA" color="yellow"></tw-tag>,<tw-tag name="NA" color="yellow"></tw-tag>,<tw-tag name="blabla" color="green"></tw-tag>,<tw-tag name="ch1" color="purple"></tw-tag><tw-passagedata pid="1" name="Remerciements" tags="" position="2200,2902" size="100,100">Félicitation, vous êtes arrivé au bout du Serious Game //E-safety//.
+</script><tw-tag name="Ch1" color="purple"></tw-tag>,<tw-tag name="mdp" color="red"></tw-tag>,<tw-tag name="Circuit---nouvel-arrivant" color="yellow"></tw-tag>,<tw-tag name="Blabla" color="red"></tw-tag>,<tw-tag name="Computer" color="blue"></tw-tag>,<tw-tag name="Mail" color="blue"></tw-tag>,<tw-tag name="S1---NA" color="yellow"></tw-tag>,<tw-tag name="NA" color="yellow"></tw-tag>,<tw-tag name="blabla" color="green"></tw-tag>,<tw-tag name="ch1" color="purple"></tw-tag><tw-passagedata pid="1" name="Remerciements" tags="" position="2200,2902" size="100,100">Félicitations, tu es arrivé au bout du Serious Game //E-safety//.
 
-Nous espérons que vous vous êtes amusés à le faire, et que vous avez pu retenir des informations qui vous aideront à naviguer le web de manière plus saine dans le futur.
+Nous espérons que tu t'es amusé à le faire, et que tu as pu retenir des informations qui vous aideront à naviguer sur le web de manière plus saine dans le futur.
 
-Merci d&#39;avoir participé !
+Merci d'avoir participé !
 
-==&gt;
+==>
 //	- équipe du PT 2019: cybersécurité //</tw-passagedata></tw-storydata>
 
 <script title="Twine engine code" data-main="harlowe">"use strict";function _defineProperty(e,t,n){return t in e?Object.defineProperty(e,t,{value:n,enumerable:!0,configurable:!0,writable:!0}):e[t]=n,e}function _toConsumableArray(e){if(Array.isArray(e)){for(var t=0,n=Array(e.length);t<e.length;t++)n[t]=e[t];return n}return Array.from(e)}var _slicedToArray=function(){function e(e,t){var n=[],r=!0,i=!1,o=void 0;try{for(var a,s=e[Symbol.iterator]();!(r=(a=s.next()).done)&&(n.push(a.value),!t||n.length!==t);r=!0);}catch(e){i=!0,o=e}finally{try{!r&&s.return&&s.return()}finally{if(i)throw o}}return n}return function(t,n){if(Array.isArray(t))return t;if(Symbol.iterator in Object(t))return e(t,n);throw new TypeError("Invalid attempt to destructure non-iterable instance")}}(),_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e};!function(){/**

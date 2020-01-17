@@ -8,9 +8,6 @@
         <?php include('../../includes/Bootstrap_navbar.php')?>
 
 			<ul class="navbar-nav ml-auto">
-			  <li class="nav-item active">
-				<a class="nav-link" href="../../index.php">Menu Principal <span class="sr-only">(current)</span></a>
-			  </li>
 			  <li class="nav-item">
 				<a class="nav-link" href="Questions.php">Page précédente</a>
 			  </li>
@@ -54,7 +51,7 @@
 
 	<br/>
 	<p>A noter que ce sont les mots de passe les plus utilisés dans le monde. En France, on retrouve également une utilisation fréquente de certains mots de passe comme : azerty, azertyuiop, coucou, jetaime, ...</p>
-	<p>Parler également des data breaches (exemple choquant : Vtech)</p>
+	<!-- <p>Parler également des data breaches (exemple choquant : Vtech)</p> -->
 	</section>
 	
 	<footer>

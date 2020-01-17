@@ -2,7 +2,7 @@
 <!-- Barre de navigation en haut -->
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: rgb(45,101,129);">
 
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="../../index.php">
         <div id="logo_page">
             <img src="../../images/Logo_wCM_blanc_allonge.png" width="350"  alt="logo">
         </div>

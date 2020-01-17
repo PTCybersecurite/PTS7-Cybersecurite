@@ -33,21 +33,6 @@
 		  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		  </button>
-		 
-		  <!-- Les éléments de la navbar -->
-		  <div class="collapse navbar-collapse" id="navbarNav">
-		  
-			<ul class="navbar-nav ml-auto">
-			  <li class="nav-item active">
-				<a class="nav-link" href="#">Menu Principal <span class="sr-only">(current)</span></a>
-			  <li class="nav-item">
-				<a class="nav-link" href="cours/Mots_de_passe/Questions.php">Cours n°1</a>
-			  </li>
-			  <li class="nav-item">
-				<a class="nav-link" href="cours/Phishing/Introduction.php">Cours n°2</a>
-			  </li>
-			</ul>
-		  </div>
 		</nav>
 
 	<hr>
@@ -68,13 +53,13 @@
 			</div>
 		</div>
 	
-	<h2>Sommaire des différents cours</h2>
+	<!-- <h2>Sommaire des différents cours</h2>
 		<ul>
 			<li><a class="nav-link" href="cours/Mots_de_passe/Questions.php">Cours n°1 : Les mots de passe</a></li>
 			<li><a class="nav-link" href="cours/Phishing/Introduction.php">Cours n°2 : Le phishing</a></li>
             <li><a class="nav-link" href="cours/Bonnes_Pratiques/Introduction.php">Cours n°3 : Les bonnes pratiques</a></li>
 		</ul>	
-		<br/>
+		<br/> -->
 
 		<h2>Objectifs pédagogiques</h2>
 		<ol>
